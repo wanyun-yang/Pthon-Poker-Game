@@ -1,1 +1,4 @@
-# Pthon-Poker-Game
+# Python-Poker-Game
+
+Addition WAR card game!
+
